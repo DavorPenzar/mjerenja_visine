@@ -1,2 +1,3 @@
 # mjerenja_visine
-Jupyter bilježnica za prikaz mjerenja visine
+
+Jupyter bilježnica za prikaz mjerenja visine.
